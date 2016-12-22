@@ -1,7 +1,5 @@
 #pragma once
 
-#include "ptr_data.h"
-
 #include <cstddef>
 #include <utility>
 
